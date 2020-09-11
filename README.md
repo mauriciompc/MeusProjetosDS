@@ -1,4 +1,4 @@
-# Meus Projetos DS
+# Meus Projetos Data Science
 
 
 Repositório contendo meu portfólio de estudos em Data Science.
