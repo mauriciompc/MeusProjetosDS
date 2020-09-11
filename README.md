@@ -4,7 +4,7 @@ Repositório contendo meu portfólio de estudos em Data Science.
 
 Bom, tenha em mente que ainda sou estudante dessa área (que é nova pra mim!), então qualquer tipo de ajuda e crítica são bem-vindas! 
 
-## Um pouco sobre mim
+
 ## Maurício Costa
 ### Doutor em Ciências (Psicologia - Avaliação Psicológica) pela USP
 ***
@@ -12,7 +12,9 @@ Bom, tenha em mente que ainda sou estudante dessa área (que é nova pra mim!), 
 * Especialização em Psicologia Cognitiva-Comportamental.
 * Psicólogo de Aviação (Fatores Humanos).
 
+
 **Background in**: Psicologia, Fatores Humanos na Aviação, Python, Jupyter Notebook.
+
 
 **Links**
 * [Meu Perfil Linkedin](www.linkedin.com/in/mauríciocostaphd)
