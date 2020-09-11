@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagem\banner.jpg" height=360pc>
+  <img src="imagem\banner.jpg" height=320pc>
 </p>
 
 # Meus Projetos Data Science
