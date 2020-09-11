@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" >
+</p>
+
 # Meus Projetos Data Science
 
 Repositório contendo meu portfólio de estudos em Data Science.
