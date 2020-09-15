@@ -21,5 +21,5 @@ Bom, tenha em mente que ainda sou estudante dessa área (que é nova pra mim!), 
 
 
 **Links**
-* [Meu Perfil Linkedin](www.linkedin.com/in/mauríciocostaphd)
+* [Meu Perfil Linkedin](www.linkedin.com/in/mauriciocostaphd)
 * Email - mauriciocosta.psico@gmail.com
