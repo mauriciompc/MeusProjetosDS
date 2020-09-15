@@ -23,3 +23,4 @@ Bom, tenha em mente que ainda sou estudante dessa área (que é nova pra mim!), 
 **Links**
 * [Meu Perfil Linkedin](https://www.linkedin.com/in/mauriciocostaphd)
 * Email - mauriciocosta.psico@gmail.com
+* [Currículo Plataforma Lattes](http://lattes.cnpq.br/9512457139343462)
