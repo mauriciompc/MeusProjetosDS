@@ -17,7 +17,7 @@ Bom, tenha em mente que ainda sou estudante dessa área (que é nova pra mim!), 
 * Psicólogo de Aviação (Fatores Humanos).
 
 
-**Background in**: Psicologia, Fatores Humanos na Aviação, Python, Jupyter Notebook.
+**Background in**: Psicologia, Psicometria, Fatores Humanos na Aviação, Python, Jupyter Notebook.
 
 
 **Links**
