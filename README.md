@@ -14,7 +14,7 @@ Bom, tenha em mente que ainda sou estudante dessa área (que é nova pra mim!), 
 ***
 * Experiênica em Psicometria. Pesquisa e Desenvolvimento de Testes Piscológicos. Estatística para Ciência Sociais.
 * Especialização em Psicologia Cognitiva-Comportamental.
-* Psicólogo de Aviação (Fatores Humanos).
+* Psicólogo da Aviação (Fatores Humanos).
 
 
 **Background in**: Psicologia, Psicometria, Fatores Humanos na Aviação, Python, Jupyter Notebook.
