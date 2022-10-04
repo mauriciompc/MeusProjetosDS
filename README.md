@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagem\banner.jpg" height=250px, width=700pc>
+  <img src="imagem\banner.jpg" height=200px, width=600pc>
 </p>
 
 # Meus Projetos Data Science
@@ -9,6 +9,7 @@ Repositório contendo meu *portfólio de estudos* em Data Analysis/Science. Est�
 Fique a vontade para explorar os notebooks e para fazer sugestões e críticas!
 
 **MELHOR VISUALIZADO NO GOOGLE COLAB**
+
 
 
 ## Maurício Pereira da Costa
