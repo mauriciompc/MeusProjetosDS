@@ -6,9 +6,7 @@
 
 Repositório contendo meu *portfólio de estudos* em Data Analysis/Science. Estão todos juntos, mas separados em pastas, para deixar meus estudos organizados em um único local, assim não é necessário ficar navegando entre os repositórios!
 
-Fique a vontade para explorar os notebooks e para fazer sugestões e críticas!
-
-**MELHOR VISUALIZADO NO GOOGLE COLAB**
+Fique a vontade para explorar os notebooks e para fazer sugestões e críticas! **Melhor visualizado no Google Colab**
 
 
 
