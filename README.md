@@ -3,7 +3,7 @@
 </p>
 
 
-[![author](https://img.shields.io/badge/author-mauriciocosta-red.svg)](https://www.linkedin.com/in/mauriciocostaphd/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/) [![MITlicense](https://img.shields.io/badge/MITlicense-MIT-blue.svg)](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/MauricioCosta-Psico)
+[![author](https://img.shields.io/badge/author-mauriciocosta-red.svg)](https://www.linkedin.com/in/mauriciocostaphd/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/MauricioCosta-Psico)
 
 
 # Meus Projetos Data Analysis / Science
