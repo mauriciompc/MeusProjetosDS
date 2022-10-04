@@ -4,9 +4,9 @@
 
 # Meus Projetos Data Science
 
-Repositório contendo meu portfólio de estudos em Data Science.
+Repositório contendo meu portfólio de estudos em Data Analysis/Science.
 
-Bom, tenha em mente que ainda sou estudante dessa área (que é nova pra mim!), então qualquer tipo de ajuda e crítica são bem-vindas! 
+Fique a vontade para explorar os notebooks e para fazer sugestões e críticas!
 
 
 ## Maurício Pereira da Costa
@@ -17,7 +17,7 @@ Bom, tenha em mente que ainda sou estudante dessa área (que é nova pra mim!), 
 * Psicólogo da Aviação (Fatores Humanos).
 
 
-**Background in**: Psicologia, Psicometria, Fatores Humanos na Aviação, Python, Jupyter Notebook.
+**Background in**: Psicologia, Psicometria, Fatores Humanos na Aviação, Python, Jupyter Notebook, R, Power BI.
 
 
 **Links**
