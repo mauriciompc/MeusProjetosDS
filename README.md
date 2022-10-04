@@ -15,6 +15,7 @@ Fique a vontade para explorar os notebooks e para fazer sugestões e críticas!
 * Experiênica em Psicometria. Pesquisa e Desenvolvimento de Testes Piscológicos. Estatística para Ciência Sociais.
 * Especialização em Psicologia Cognitiva-Comportamental.
 * Psicólogo da Aviação (Fatores Humanos).
+* Google Data Analysis Certification on Coursera
 
 
 **Background in**: Psicologia, Psicometria, Fatores Humanos na Aviação, Python, Jupyter Notebook, R, Power BI.
