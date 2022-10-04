@@ -2,7 +2,7 @@
   <img src="imagem\banner.jpg" height=200px, width=400pc>
 </p>
 
-# Meus Projetos Data Science
+# Meus Projetos Data Analysis / Science
 
 Repositório contendo meu *portfólio de estudos* em Data Analysis/Science. Estão todos juntos, mas separados em pastas, para deixar meus estudos organizados em um único local, assim não é necessário ficar navegando entre os repositórios!
 
