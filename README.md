@@ -2,6 +2,10 @@
   <img src="imagem\banner.jpg" height=200px, width=400pc>
 </p>
 
+
+[![author](https://img.shields.io/badge/author-rafaelnduarte-red.svg)](https://www.linkedin.com/in/rafael-n-duarte/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/issues)
+
+
 # Meus Projetos Data Analysis / Science
 
 Repositório contendo meu *portfólio de estudos* em Data Analysis/Science. Estão todos juntos, mas separados em pastas, para deixar meus estudos organizados em um único local, assim não é necessário ficar navegando entre os repositórios!
