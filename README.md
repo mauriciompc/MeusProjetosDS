@@ -8,7 +8,7 @@ Repositório contendo meu *portfólio de estudos* em Data Analysis/Science. Est�
 
 Fique a vontade para explorar os notebooks e para fazer sugestões e críticas!
 
-*MELHOR VISUALIZADO NO GOOGLE COLAB*
+_MELHOR VISUALIZADO NO GOOGLE COLAB_
 
 
 ## Maurício Pereira da Costa
