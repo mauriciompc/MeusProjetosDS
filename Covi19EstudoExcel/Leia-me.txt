@@ -1,0 +1,4 @@
+Dashboard sobre os números da COVID19 seguindo os estudos do 30 days of Learning Data Analytics
+
+Fiz o Dashboard no Excel e no PowerBI para estudar
+Os dados são atualizados automaticamente quando o arquivo é aberto, por isso ele demora para abrir!
