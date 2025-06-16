@@ -14,7 +14,7 @@ Fique a vontade para explorar os notebooks e para fazer sugestões e críticas! 
 
 
 
-## Maurício Pereira da Costa
+## Mauricio Pereira da Costa
 ### Doutor em Ciências (Psicologia - Avaliação Psicológica) pela USP
 ***
 * Experiênica em Psicometria. Pesquisa e Desenvolvimento de Testes Piscológicos. Estatística para Ciência Sociais.
